@@ -101,7 +101,7 @@ Thanks to [@odysseusmax](https://tx.me/odysseusmax) for his [animated-lamp](http
 
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
 
-Thanks to [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
+Thanks gto [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
