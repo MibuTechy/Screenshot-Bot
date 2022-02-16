@@ -28,7 +28,7 @@
       "value": ""
     },
     "LOG_CHANNEL": {
-      "description": "Log channel's id made by mibu_techy.",
+      "description": "Log channel's id.",
       "value": ""
     },
     "DATABASE_URL": {
@@ -58,7 +58,7 @@
       "required": false
     },
     "SLOW_SPEED_DELAY": {
-      "description": "Delay required between each request. Defaults to 15s   mibu echy sub on yt.",
+      "description": "Delay required between each request. Defaults to 15s.",
       "value": "15",
       "required": false
     } 
