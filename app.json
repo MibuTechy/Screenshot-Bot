@@ -58,7 +58,7 @@
       "required": false
     },
     "SLOW_SPEED_DELAY": {
-      "description": "Delay required between each request. Defaults to 15s.",
+      "description": "Delay required between each request. Defaults to 15s   mibu echy sub on yt.",
       "value": "15",
       "required": false
     } 
